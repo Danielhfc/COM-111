@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1568770713 source:c:\users\danielhfc\desktop\faculdade\programacao\com-111\lista2\testelistaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaEncadeada.h"
+
+1568763973 c:\users\danielhfc\desktop\faculdade\programacao\com-111\lista2\testelistaencadeada\listaencadeada.h
+

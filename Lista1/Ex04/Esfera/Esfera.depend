@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514140582 source:c:\users\danielhfc\desktop\faculdade\programacao\com-111\lista1\ex04\esfera\main.c
+
+1567720238 source:c:\users\danielhfc\desktop\faculdade\programacao\com-111\lista1\ex04\esfera.c
+	<stdlib.h>
+	"Esfera.h"
+
+1567720232 c:\users\danielhfc\desktop\faculdade\programacao\com-111\lista1\ex04\esfera.h
+

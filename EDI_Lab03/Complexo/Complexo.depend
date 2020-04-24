@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1567379717 source:c:\users\danielhfc\desktop\faculdade\programacao\com-111\edi_lab03\complexo.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"complexo.h"
+
+1567379717 c:\users\danielhfc\desktop\faculdade\programacao\com-111\edi_lab03\complexo.h
+

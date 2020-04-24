@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1568840405 source:c:\users\danielhfc\desktop\faculdade\programacao\com-111\lista2\listaencadeada.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"listaEncadeada.h"
+
+1568840821 c:\users\danielhfc\desktop\faculdade\programacao\com-111\lista2\listaencadeada.h
+
+1514140582 source:c:\users\danielhfc\desktop\faculdade\programacao\com-111\lista2\listaencadeada\main.c
+
+1514140582 source:c:\users\danielhfc\desktop\faculdade\programacao\com-111\lista2 - equipe 2\listaencadeada\main.c
+

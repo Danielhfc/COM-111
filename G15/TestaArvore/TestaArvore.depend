@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1574970505 source:c:\users\danielhfc\desktop\faculdade\programacao\com-111\arvore\testaarvore\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreBin.h"
+
+1574969987 c:\users\danielhfc\desktop\faculdade\programacao\com-111\arvore\testaarvore\arvorebin.h
+

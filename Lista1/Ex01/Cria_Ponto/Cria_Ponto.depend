@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1567548216 source:c:\users\hugo-\desktop\joao bobo\cria_ponto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ponto.h"
+
+1567546646 c:\users\hugo-\desktop\joao bobo\cria_ponto\ponto.h
+
+1567548216 source:c:\users\danielhfc\desktop\faculdade\programacao\com-111\lista1\ex01\cria_ponto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ponto.h"
+
+1567546646 c:\users\danielhfc\desktop\faculdade\programacao\com-111\lista1\ex01\cria_ponto\ponto.h
+

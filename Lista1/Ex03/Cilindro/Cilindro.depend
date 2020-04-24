@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514140582 source:c:\users\danielhfc\desktop\faculdade\programacao\com-111\trabalho 01\cilindro\main.c
+
+1567551545 source:c:\users\danielhfc\desktop\faculdade\programacao\com-111\trabalho 01\cilindro.c
+	<stdlib.h>
+	"Cilindro.h"
+
+1567551278 c:\users\danielhfc\desktop\faculdade\programacao\com-111\trabalho 01\cilindro.h
+

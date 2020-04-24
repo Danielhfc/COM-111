@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514140582 source:c:\users\hugo-\desktop\joao bobo 2\cubo\main.c
+
+1567550114 source:c:\users\hugo-\desktop\joao bobo 2\cubo.c
+	<stdlib.h>
+	"Cubo.h"
+
+1567549269 c:\users\hugo-\desktop\joao bobo 2\cubo.h
+

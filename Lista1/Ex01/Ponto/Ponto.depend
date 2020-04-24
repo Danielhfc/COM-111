@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1567547620 source:c:\users\hugo-\desktop\joao bobo\ponto.c
+	<stdlib.h>
+	<math.h>
+	"Ponto.h"
+
+1567546646 c:\users\hugo-\desktop\joao bobo\ponto.h
+
+1514140582 source:c:\users\hugo-\desktop\joao bobo\ponto\main.c
+

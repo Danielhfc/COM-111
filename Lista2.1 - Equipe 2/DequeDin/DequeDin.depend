@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1574467286 source:c:\users\danielhfc\desktop\faculdade\programacao\com-111\lista2.1 - equipe 2\dequedin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"DequeDin.h"
+
+1574441645 c:\users\danielhfc\desktop\faculdade\programacao\com-111\lista2.1 - equipe 2\dequedin.h
+
